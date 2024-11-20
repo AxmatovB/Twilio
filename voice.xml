@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>Salom! Iltimos, biror narsa gapiring. Yozuv 20 soniya davomida amalga oshiriladi.</Say>
+    <Record maxLength="20" playBeep="true" />
+</Response>
